@@ -1,3 +1,6 @@
+Note: Both compressed packages need to be downloaded and extracted to the same folder. 
+This program only supports Windows systems and does not support macOS for the time being.
+
 SOLE Software User Guide 
 
 SOLE consists of four modules: (1) Home: A welcome page; (2) Design: A simple lidar hardware system setup module designed to help users understand the composition of lidar hardware; (3) Parameters: Lidar simulation parameter settings, which form the core of the SOLE; (4) Processing: Data processing for displaying simulation results. Currently, only specific sample files can be displayed, and its use is not recommended. Users are advised to plot simulation data using other software. The following section focuses on module (3), parameter settings.
